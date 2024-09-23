@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heber\\Downloads\\estudos\\beecrowd\\uri1015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4245F47-DE00-4754-92A4-1CA8BB1BEEE2}|uri1015\\uri1015.csproj|c:\\users\\heber\\downloads\\estudos\\beecrowd\\uri1015\\uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4245F47-DE00-4754-92A4-1CA8BB1BEEE2}|uri1015\\uri1015.csproj|solutionrelative:uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\Downloads\\estudos\\beecrowd\\uri1015\\uri1015\\Program.cs",
+              "RelativeDocumentMoniker": "uri1015\\Program.cs",
+              "ToolTip": "C:\\Users\\heber\\Downloads\\estudos\\beecrowd\\uri1015\\uri1015\\Program.cs",
+              "RelativeToolTip": "uri1015\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:47:29.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

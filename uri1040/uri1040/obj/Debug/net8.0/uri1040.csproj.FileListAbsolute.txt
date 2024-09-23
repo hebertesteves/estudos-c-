@@ -1,0 +1,14 @@
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\bin\Debug\net8.0\uri1040.exe
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\bin\Debug\net8.0\uri1040.deps.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\bin\Debug\net8.0\uri1040.runtimeconfig.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\bin\Debug\net8.0\uri1040.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\bin\Debug\net8.0\uri1040.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.AssemblyInfoInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.AssemblyInfo.cs
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.csproj.CoreCompileInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\refint\uri1040.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\uri1040.genruntimeconfig.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1040\uri1040\obj\Debug\net8.0\ref\uri1040.dll

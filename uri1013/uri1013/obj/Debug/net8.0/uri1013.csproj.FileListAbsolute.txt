@@ -1,0 +1,14 @@
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\bin\Debug\net8.0\uri1013.exe
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\bin\Debug\net8.0\uri1013.deps.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\bin\Debug\net8.0\uri1013.runtimeconfig.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\bin\Debug\net8.0\uri1013.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\bin\Debug\net8.0\uri1013.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.AssemblyInfoInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.AssemblyInfo.cs
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.csproj.CoreCompileInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\refint\uri1013.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\uri1013.genruntimeconfig.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1013\uri1013\obj\Debug\net8.0\ref\uri1013.dll

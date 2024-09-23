@@ -1,0 +1,14 @@
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\bin\Debug\net8.0\uri1158.exe
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\bin\Debug\net8.0\uri1158.deps.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\bin\Debug\net8.0\uri1158.runtimeconfig.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\bin\Debug\net8.0\uri1158.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\bin\Debug\net8.0\uri1158.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.AssemblyInfoInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.AssemblyInfo.cs
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.csproj.CoreCompileInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\refint\uri1158.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\uri1158.genruntimeconfig.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1158\uri1158\obj\Debug\net8.0\ref\uri1158.dll

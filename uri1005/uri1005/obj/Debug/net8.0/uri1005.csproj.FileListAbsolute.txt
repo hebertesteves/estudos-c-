@@ -1,0 +1,14 @@
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\bin\Debug\net8.0\uri1005.exe
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\bin\Debug\net8.0\uri1005.deps.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\bin\Debug\net8.0\uri1005.runtimeconfig.json
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\bin\Debug\net8.0\uri1005.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\bin\Debug\net8.0\uri1005.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.AssemblyInfoInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.AssemblyInfo.cs
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.csproj.CoreCompileInputs.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\refint\uri1005.dll
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.pdb
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\uri1005.genruntimeconfig.cache
+C:\Users\heber\Downloads\estudos\beecrowd\uri1005\uri1005\obj\Debug\net8.0\ref\uri1005.dll
