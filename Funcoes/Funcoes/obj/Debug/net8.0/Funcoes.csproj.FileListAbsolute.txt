@@ -1,0 +1,14 @@
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+C:\Users\heber\Downloads\estudos c# poo\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
